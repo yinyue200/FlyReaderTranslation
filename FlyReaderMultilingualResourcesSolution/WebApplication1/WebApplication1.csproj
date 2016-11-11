@@ -76,6 +76,10 @@
     <None Include="th.csv" />
     <None Include="tr.csv" />
     <Content Include="img\20161112044405.jpg" />
+    <Content Include="img\20161112044938.jpg" />
+    <Content Include="img\20161112045450.jpg" />
+    <Content Include="img\20161112045658.jpg" />
+    <Content Include="img\20161112045817.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
