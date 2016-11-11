@@ -75,6 +75,7 @@
     <None Include="ru.csv" />
     <None Include="th.csv" />
     <None Include="tr.csv" />
+    <Content Include="img\20161112044405.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
