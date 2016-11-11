@@ -58,6 +58,23 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ar.csv" />
+    <None Include="cs.csv" />
+    <None Include="da.csv" />
+    <None Include="de.csv" />
+    <None Include="el.csv" />
+    <None Include="es.csv" />
+    <None Include="fi.csv" />
+    <None Include="fr.csv" />
+    <None Include="he.csv" />
+    <None Include="hi.csv" />
+    <None Include="it.csv" />
+    <None Include="ko.csv" />
+    <None Include="nl.csv" />
+    <None Include="pt.csv" />
+    <None Include="ru.csv" />
+    <None Include="th.csv" />
+    <None Include="tr.csv" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -65,12 +82,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="en-US.csv" />
+    <Content Include="ja.csv" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+    <Content Include="zh-Hant.csv" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
