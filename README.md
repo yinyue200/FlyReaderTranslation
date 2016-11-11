@@ -3,13 +3,13 @@
 
 ##How to help us improve translation
 
-###1.Create a Github account. 
+###1.Create a Github account or sign in
 
 ![how to sign in](https://github.com/yinyue200/FlyReaderTranslation/raw/master/FlyReaderMultilingualResourcesSolution/WebApplication1/img/20161112044405.jpg)
 
-###2.Open your language's page
+###2.Open the page for your language
 
-* [中文繁體](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/zh-Hant.csv)
+* <a target="_blank" href="https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/zh-Hant.csv">中文繁體</a>
 * [English](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/en-US.csv)
 * [日本語](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/ja.csv)
 * [Русский язык](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/ru.csv)
