@@ -29,7 +29,7 @@
 * [Suomalainen](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/fi.csv)
 * [עברי](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/he.csv)
 * [हिन्दी](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/hi.csv)
-* [한국의](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/jo.csv)
+* [한국의](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/ko.csv)
 * [ไทย](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/th.csv)
 * [Türk](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/tr.csv)
 * [Português](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/pt.csv)
