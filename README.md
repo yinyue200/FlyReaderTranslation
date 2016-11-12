@@ -31,6 +31,9 @@
 * [ไทย](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/th.csv)
 * [Türk](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/tr.csv)
 * [Português](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/pt.csv)
+* [Magyar](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/hu.csv)
+* [Polski](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/pl.csv)
+* [Svenska](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/sv.csv)
 
 ###3. Edit the file
 ![how to edit](https://github.com/yinyue200/FlyReaderTranslation/raw/master/FlyReaderMultilingualResourcesSolution/WebApplication1/img/20161112044938.jpg)
