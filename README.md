@@ -3,6 +3,8 @@
 
 ##How to help us improve translation
 
+*This article is for desktop pages only, and if you are currently browsing the page on a mobile device, I recommend you use a PC to browse the page.*
+
 ###1. Create a Github account or sign in
 
 ![how to sign in](https://github.com/yinyue200/FlyReaderTranslation/raw/master/FlyReaderMultilingualResourcesSolution/WebApplication1/img/20161112044405.jpg)
