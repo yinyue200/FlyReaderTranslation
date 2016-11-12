@@ -68,11 +68,14 @@
     <None Include="fr.csv" />
     <None Include="he.csv" />
     <None Include="hi.csv" />
+    <Content Include="hu.csv" />
     <None Include="it.csv" />
     <None Include="ko.csv" />
     <None Include="nl.csv" />
+    <Content Include="pl.csv" />
     <None Include="pt.csv" />
     <None Include="ru.csv" />
+    <Content Include="sv.csv" />
     <None Include="th.csv" />
     <None Include="tr.csv" />
     <Content Include="img\20161112044405.jpg" />
