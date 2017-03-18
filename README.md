@@ -1,15 +1,15 @@
 # FlyReaderTranslation
 
 
-##How to help us improve translation
+## How to help us improve translation
 
 *This article is for desktop pages only, and if you are currently browsing the page on a mobile device, I recommend you use a PC to browse the page.*
 
-###1. Create a Github account or sign in
+### 1. Create a Github account or sign in
 
 ![how to sign in](https://github.com/yinyue200/FlyReaderTranslation/raw/master/FlyReaderMultilingualResourcesSolution/WebApplication1/img/20161112044405.jpg)
 
-###2. Open the page for your language
+### 2. Open the page for your language
 
 *We recommend opening these links in a new tab*
 
@@ -37,17 +37,17 @@
 * [Polski](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/pl.csv)
 * [Svenska](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/sv.csv)
 
-###3. Edit the file
+### 3. Edit the file
 ![how to edit](https://github.com/yinyue200/FlyReaderTranslation/raw/master/FlyReaderMultilingualResourcesSolution/WebApplication1/img/20161112044938.jpg)
 
-###4. After editing, click “Propose file change”
+### 4. After editing, click “Propose file change”
 ![Propose file change](https://github.com/yinyue200/FlyReaderTranslation/raw/master/FlyReaderMultilingualResourcesSolution/WebApplication1/img/20161112045450.jpg)
 
-###5. Create Pull Request
+### 5. Create Pull Request
 ![Create Pull Request](https://github.com/yinyue200/FlyReaderTranslation/raw/master/FlyReaderMultilingualResourcesSolution/WebApplication1/img/20161112045658.jpg)
 ![Create Pull Request](https://github.com/yinyue200/FlyReaderTranslation/raw/master/FlyReaderMultilingualResourcesSolution/WebApplication1/img/20161112045817.jpg)
 
-###6. Complete
+### 6. Complete
 If you have successfully completed all of the above steps, congratulations. In general, your translation will soon appear in the new version.
 If you encounter a problem does not matter, please contact yfreader@yinyue200.com for help
 
