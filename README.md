@@ -1,5 +1,6 @@
 # FlyReaderTranslation
 
+You need to read [Legal Notices](Legal%20Notices.md) first.
 
 ## How to help us improve translation
 
