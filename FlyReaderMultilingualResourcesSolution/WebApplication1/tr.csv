@@ -213,7 +213,7 @@ d5ae0d23f68efefad1beca2dce060adc," ","Alma tamamlandı. Uygulama için {0} dönm
 2398e2ed49a75595dc1097dba13b89ba," ","Alınırken bazı hatalar oluştu.",
 fdef48c379f9e56b1e9c390434612bae," ","Yerine, boş ve dosya adını değiştirin ve yeniden deneyin istemiyorsanız zaten aynı adı taşıyan kitabı var",
 d7ff38acc5383a489fc1224bfe1ddf47," ","Kitap adı (uzantısı olmadan) ""other1"" paylaşılan olamaz ""ve"" PlatformData ""gibi gerek ithal, dosya adını değiştirin ve yeniden deneyin dosyayı aktarmak için verdi!",
-4c4f1a34ecc6f9b6395471dd4365d0db," ","Dosya adı uzunluğu 50 aşıyor! Alma işlemine devam etmek için ""{0}"" öğesini tıklatın",
+4c4f1a34ecc6f9b6395471dd4365d0db," ","Kitap adı 50'den uzun! İçe aktarmaya devam etmek için ""{0}"" üzerine tıklayın. (Profesyonel sürümde kitap adının uzunluğu sınırlaması yoktur. Önce bu içe aktarmayı iptal edebilir ve ardından kısıtlamayı ortadan kaldırmak için profesyonel sürümü satın aldıktan sonra yeniden içe aktarabilirsiniz)",
 f5a709cb7491a113ef64d195aaf4886e," ","Dosyaları uzantısız! (Terk bu dosyayı almak)",
 dfa1e60b8f3f2050f8635760971eba7a," ","Akıllı olmak kayıp bölüm? (Otomatik olarak romanın bölümleri ayırmak için yardımcı olur)",
 7a6bd78091c46f00b3a6f3df3bdb397d," ","Bu dosya, bir sonraki sürümü olması yazılım güncellemesini kontrol etmelisiniz!",

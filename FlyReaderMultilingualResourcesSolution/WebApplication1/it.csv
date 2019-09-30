@@ -213,7 +213,7 @@ d5ae0d23f68efefad1beca2dce060adc," ","Importazione completata. Fare clic su OK p
 2398e2ed49a75595dc1097dba13b89ba," ","Si sono verificati alcuni errori durante l'importazione!",
 fdef48c379f9e56b1e9c390434612bae," ","Libro con lo stesso nome esiste già, se non si desidera sostituire, saltare e cambiare il nome del file e riprovare",
 d7ff38acc5383a489fc1224bfe1ddf47," ","Libro nome (senza estensione) non può essere ""altro1"" Shared ""e"" PlatformData ""ha rinunciato per importare il file, ad esempio la necessità di importare, sostituire il nome del file e riprovare!",
-4c4f1a34ecc6f9b6395471dd4365d0db," ","Lunghezza del nome file supera i 50! Per procedere con l'importazione, fare clic su ""{0}""",
+4c4f1a34ecc6f9b6395471dd4365d0db," ","Il nome del libro è più lungo di 50! Per continuare l'importazione, fai clic su ""{0}"". (La versione professionale non ha la limitazione della lunghezza del nome del libro. È possibile annullare prima questa importazione e quindi reimportare dopo aver acquistato la versione professionale per eliminare la restrizione)",
 f5a709cb7491a113ef64d195aaf4886e," ","File senza estensione! (Aveva abbandonato importare questo file)",
 dfa1e60b8f3f2050f8635760971eba7a," ","Capitolo perduto di essere intelligente? (Consente di dividere automaticamente i capitoli del romanzo)",
 7a6bd78091c46f00b3a6f3df3bdb397d," ","Questo file dovrebbe essere una versione successiva di ""Fly Reader"" si apre, controllare l'aggiornamento del software!",

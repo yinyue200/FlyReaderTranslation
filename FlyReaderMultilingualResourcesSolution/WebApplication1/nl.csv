@@ -213,7 +213,7 @@ d5ae0d23f68efefad1beca2dce060adc," ","Importeren voltooid. Klik op OK om terug t
 2398e2ed49a75595dc1097dba13b89ba," ","Sommige fouten zijn opgetreden bij het importeren van!",
 fdef48c379f9e56b1e9c390434612bae," ","Boek met dezelfde naam bestaat al, als u niet wilt vervangen, overslaan en wijzig de bestandsnaam en probeer het opnieuw",
 d7ff38acc5383a489fc1224bfe1ddf47," ","Boek naam (zonder extensie) mag niet ""other1"" gedeeld ""en"" PlatformData ""heeft opgegeven voor het importeren van het bestand, zoals de noodzaak om te importeren, vervangt de bestandsnaam en probeer het opnieuw!",
-4c4f1a34ecc6f9b6395471dd4365d0db," ","Lengte van de bestandsnaam van het bestand groter is dan 50! Als u wilt doorgaan met het importeren, klikt u op ""{0}""",
+4c4f1a34ecc6f9b6395471dd4365d0db," ","De boeknaam is langer dan 50! Klik op ""{0}"" om door te gaan met importeren. (De professionele versie heeft niet de beperking van de lengte van de boeknaam. U kunt deze import eerst annuleren en vervolgens opnieuw importeren nadat u de professionele versie hebt gekocht om de beperking op te heffen)",
 f5a709cb7491a113ef64d195aaf4886e," ","Bestanden zonder extensie! (Had verlaten dit bestand importeren)",
 dfa1e60b8f3f2050f8635760971eba7a," ","Verloren hoofdstuk te slim? (Helpt u bij het automatisch splitsen van de roman hoofdstukken)",
 7a6bd78091c46f00b3a6f3df3bdb397d," ","Dit bestand moet worden geopend later Fly Reader, controleert u de software-update!",

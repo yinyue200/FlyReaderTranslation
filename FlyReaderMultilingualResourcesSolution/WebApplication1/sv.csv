@@ -213,7 +213,7 @@ d5ae0d23f68efefad1beca2dce060adc," ","Importen är klar. Klicka på OK att åter
 2398e2ed49a75595dc1097dba13b89ba," ","Vissa fel uppstod när du importerar!",
 fdef48c379f9e56b1e9c390434612bae," ","Bok med samma namn finns redan, om du inte vill ersätta, hoppa över den och byta namn på filen och försök igen",
 d7ff38acc5383a489fc1224bfe1ddf47," ","Bok (utan filnamnstillägget) får inte vara ""Övrigt1"" delade ""och"" PlatformData ""har gett upp för att importera filen, såsom behovet av att importera, ersätta namnet och försök igen!",
-4c4f1a34ecc6f9b6395471dd4365d0db," ","Filnamnets längd överstiger 50! Om du vill fortsätta med importen, klicka på ""{0}""",
+4c4f1a34ecc6f9b6395471dd4365d0db," ","Boknamnet är längre än 50! För att fortsätta importera, klicka på ""{0}"". (Den professionella versionen har inte begränsningen av längden på boknamnet. Du kan avbryta den här importen först och sedan importera efter att du har köpt den professionella versionen för att eliminera begränsningen)",
 f5a709cb7491a113ef64d195aaf4886e," ","Filer med inga tillägg! (Hade övergett importera den här filen)",
 dfa1e60b8f3f2050f8635760971eba7a," ","Förlorade kapitel vara smart? (Hjälper dig att automatiskt dela romanens kapitel)",
 7a6bd78091c46f00b3a6f3df3bdb397d," ","Denna fil ska öppnas senare Fly Reader, kontrollera programuppdateringen !",

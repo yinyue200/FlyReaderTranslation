@@ -213,7 +213,7 @@ d5ae0d23f68efefad1beca2dce060adc," ","Importação completa. Okey clique para re
 2398e2ed49a75595dc1097dba13b89ba," ","Ocorreram alguns erros durante a importação.",
 fdef48c379f9e56b1e9c390434612bae," ","Livro com o mesmo nome já existe, se você não quer substituir, ignorá-lo e mudar o nome do arquivo e tente novamente",
 d7ff38acc5383a489fc1224bfe1ddf47," ","Nome do livro (sem extensão) não pode ser ""other1"" Shared ""e"" PlatformData ""tem desistido para importar o arquivo, tais como a necessidade de importar, substitua o nome do arquivo e tente novamente!",
-4c4f1a34ecc6f9b6395471dd4365d0db," ","Comprimento de nome de arquivo excede 50! Para continuar com a importação, clique em ""{0}""",
+4c4f1a34ecc6f9b6395471dd4365d0db," ","O nome do livro é maior que 50! Para continuar importando, clique em ""{0}"". (A versão profissional não tem a limitação do tamanho do nome do livro. Você pode cancelar esta importação primeiro e depois reimportar depois de comprar a versão profissional para eliminar a restrição)",
 f5a709cb7491a113ef64d195aaf4886e," ","Arquivos sem extensão! (Tinha abandonado importar este arquivo)",
 dfa1e60b8f3f2050f8635760971eba7a," ","Capítulo perdido para ser inteligente? (Ajuda a dividir automaticamente capítulos do romance)",
 7a6bd78091c46f00b3a6f3df3bdb397d," ","Este arquivo deve ser uma versão posterior do ""Fly Reader"" se abre, assinale a atualização de software!",

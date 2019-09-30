@@ -213,7 +213,7 @@ d5ae0d23f68efefad1beca2dce060adc," ","Importálás befejeződött. Kattintson az
 2398e2ed49a75595dc1097dba13b89ba," ","Hiba lépett fel, amikor az importáló!",
 fdef48c379f9e56b1e9c390434612bae," ","A könyv az azonos nevű már létezik, ha nem szeretné cserélni, ugrál, és változtassa meg a fájl nevét, és próbálja újra",
 d7ff38acc5383a489fc1224bfe1ddf47," ","A könyv neve (kiterjesztés nélkül) nem lehet ""other1"" Shared ""és"" PlatformData ""feladta importálni a fájlt, mint a szükség-hoz behoz, cserélje ki a fájl nevét, és próbálja meg újra!",
-4c4f1a34ecc6f9b6395471dd4365d0db," ","Fájl név hossza meghaladja az 50! Folytatja az importálást, kattintson a ""{0}""",
+4c4f1a34ecc6f9b6395471dd4365d0db," ","A könyv neve meghaladja az 50-et! Az importálás folytatásához kattintson a ""{0}"" gombra. (A professzionális verzió nem korlátozza a könyvnév hosszát. Először törölheti ezt az importálást, majd a professzionális verzió megvásárlása után újra importálhatja, hogy megszüntesse a korlátozást.)",
 f5a709cb7491a113ef64d195aaf4886e," ","Fájlokat-val nem kiterjesztés! (Volt elhagyott importálja ezt a fájlt)",
 dfa1e60b8f3f2050f8635760971eba7a," ","Elveszett fejezet kell okos? (Segít ön-hoz gépiesen hasít a regény fejezetei)",
 7a6bd78091c46f00b3a6f3df3bdb397d," ","Ezt a fájlt kell megnyitni később Fly Reader, ellenőrizze a szoftver frissítést!",

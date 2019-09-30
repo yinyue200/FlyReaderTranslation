@@ -213,7 +213,7 @@ d5ae0d23f68efefad1beca2dce060adc," ","Tuonti suoritettu. Napsauta OK palataksesi
 2398e2ed49a75595dc1097dba13b89ba," ","Jotkin virheet tuotaessa!",
 fdef48c379f9e56b1e9c390434612bae," ","Kirja on sama nimi on jo olemassa, jos et halua korvata, ohittaa sen ja muuttaa tiedostonimeä ja yritä uudelleen",
 d7ff38acc5383a489fc1224bfe1ddf47," ","Kirjan nimi (ilman tunnistetta) ei voi olla ""other1"" jaettu ""ja"" PlatformData ""on luopunut tiedoston tarve tuoda, korvata tiedostonimi ja yritä uudelleen!",
-4c4f1a34ecc6f9b6395471dd4365d0db," ","Tiedostonimen pituus ylittää 50! Jatka tuontia valitsemalla ""{0}""",
+4c4f1a34ecc6f9b6395471dd4365d0db," ","Kirjan nimi on yli 50! Jatka tuontia napsauttamalla {0}. (Ammattimaisessa versiossa ei ole kirjan nimen pituusrajoitusta. Voit peruuttaa tämän tuonnin ensin ja tuoda sen jälkeen uudelleen ammatillisen version ostamisen jälkeen rajoituksen poistamiseksi)",
 f5a709cb7491a113ef64d195aaf4886e," ","Ei tiedostop├ñ├ñtteet! (Luopui tuotavaa)",
 dfa1e60b8f3f2050f8635760971eba7a," ","Menetetty luku fiksu? (Auttaa automaattisesti jakaa romaanin lukuja)",
 7a6bd78091c46f00b3a6f3df3bdb397d," ","Tämä tiedosto olisi avattava myöhemmin lukija, tarkista ohjelmistopäivitys!",

@@ -213,7 +213,7 @@ d5ae0d23f68efefad1beca2dce060adc," ","Import fuldstændig. Klik på OK for at ve
 2398e2ed49a75595dc1097dba13b89ba," ","Nogle fejl opstod under import!",
 fdef48c379f9e56b1e9c390434612bae," ","Bog med samme navn eksisterer allerede, hvis du ikke vil erstatte, springe det og ændre filnavnet og prøv igen",
 d7ff38acc5383a489fc1224bfe1ddf47," ","Book navn (uden forlængelse) kan ikke være ""other1"" delt ""og"" PlatformData ""har opgivet for at importere filen, såsom behovet for at importere, erstatte filnavnet og prøv igen!",
-4c4f1a34ecc6f9b6395471dd4365d0db," ","Filnavnenes længde overstiger 50! For at fortsætte med importen, skal du klikke på ""{0}""",
+4c4f1a34ecc6f9b6395471dd4365d0db," ","Bognavnet er længere end 50! For at fortsætte importen skal du klikke på ""{0}"". (Den professionelle version har ikke begrænsningen af længden på bognavnet. Du kan først annullere denne import og derefter importere igen efter at have købt den professionelle version for at fjerne begrænsningen)",
 f5a709cb7491a113ef64d195aaf4886e," ","Filer hos noget extensions! (Havde opgivet importere denne fil)",
 dfa1e60b8f3f2050f8635760971eba7a," ","Tabt kapitel at være smart? (Hjælper dig automatisk opdele romanens kapitler)",
 7a6bd78091c46f00b3a6f3df3bdb397d," ","Denne fil skal åbnes senere Fly Reader, kontrollere softwareopdateringen!",

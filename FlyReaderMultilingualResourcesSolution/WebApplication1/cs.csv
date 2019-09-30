@@ -213,7 +213,7 @@ d5ae0d23f68efefad1beca2dce060adc," ","Import byl dokončen. Klepněte na tlačí
 2398e2ed49a75595dc1097dba13b89ba," ","Při importu došlo k chybám!",
 fdef48c379f9e56b1e9c390434612bae," ","Kniha se stejným názvem již existuje, pokud chcete nahradit, je přeskočit a změnit název souboru a opakujte akci",
 d7ff38acc5383a489fc1224bfe1ddf47," ","Název knihy (bez přípony) nesmí být ""other1"" Shared ""a"" PlatformData ""dal k importu souboru, jako je potřeba importovat, nahradit název souboru a opakujte akci!",
-4c4f1a34ecc6f9b6395471dd4365d0db," ","Délka názvu souboru překračuje 50! Chcete-li pokračovat v importu, klepněte na tlačítko ""{0}""",
+4c4f1a34ecc6f9b6395471dd4365d0db," ","Název knihy je delší než 50! Chcete-li pokračovat v importu, klikněte na ""{0}"". (Profesionální verze nemá omezení délky názvu knihy. Tento import můžete nejprve zrušit a poté, co si zakoupíte profesionální verzi, znovu importovat, aby se omezení odstranilo)",
 f5a709cb7491a113ef64d195aaf4886e," ","Soubory bez přípon! (Opustil importovat tento soubor)",
 dfa1e60b8f3f2050f8635760971eba7a," ","Ztracená kapitola být chytrý? (Umožňuje automatické rozdělení kapitol románu)",
 7a6bd78091c46f00b3a6f3df3bdb397d," ","Verze je příliš nízká, nelze otevřít, zkontrolujte aktualizace softwaru!",

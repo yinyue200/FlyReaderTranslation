@@ -213,7 +213,7 @@ d5ae0d23f68efefad1beca2dce060adc," ","Importation complète. Cliquez sur OK pour
 2398e2ed49a75595dc1097dba13b89ba," ","Quelques erreurs se sont produites lors de l’importation !",
 fdef48c379f9e56b1e9c390434612bae," ","Livre portant le même nom existe déjà, si vous ne souhaitez pas remplacer, ignorez-la et changer le nom du fichier et réessayez",
 d7ff38acc5383a489fc1224bfe1ddf47," ","Nom du livre (sans extension) ne peut pas être « Autres1 » Shared « et » PlatformData « a abandonné pour importer le fichier, telles que la nécessité d’importer, remplacez le nom du fichier et essayez à nouveau !",
-4c4f1a34ecc6f9b6395471dd4365d0db," ","Longueur de nom de fichier dépasse 50 ! Pour poursuivre l’importation, cliquez sur « {0} »",
+4c4f1a34ecc6f9b6395471dd4365d0db," ","Le nom du livre est plus long que 50! Pour continuer l'importation, cliquez sur ""{0}"". (La version professionnelle n'a pas la limite de longueur du nom du livre. Vous pouvez d'abord annuler cette importation, puis la réimporter après avoir acheté la version professionnelle pour éliminer la restriction)",
 f5a709cb7491a113ef64d195aaf4886e," ","Fichiers sans extensions ! (Avait abandonné importer ce fichier)",
 dfa1e60b8f3f2050f8635760971eba7a," ","Chapitre perdu d’être intelligent ? (Permet de fractionner automatiquement des chapitres du roman)",
 7a6bd78091c46f00b3a6f3df3bdb397d," ","Ce fichier doit être une version ultérieure de ""Fly Reader"" ouvre, vérifiez la mise à jour du logiciel!",

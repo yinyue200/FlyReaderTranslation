@@ -213,7 +213,7 @@ d5ae0d23f68efefad1beca2dce060adc," ","Import zakończony. Kliknij przycisk OK, a
 2398e2ed49a75595dc1097dba13b89ba," ","Wystąpiły błędy podczas importowania!",
 fdef48c379f9e56b1e9c390434612bae," ","Książki o tej samej nazwie już istnieje, jeśli nie chcesz zastąpić, pominąć go i Zmień nazwę pliku i spróbuj ponownie",
 d7ff38acc5383a489fc1224bfe1ddf47," ","Nazwa książki (bez rozszerzenia) nie może być ""other1"" Shared ""i"" PlatformData ""dał się do importowania pliku, na przykład konieczność importu, zastąp nazwę pliku i spróbuj ponownie!",
-4c4f1a34ecc6f9b6395471dd4365d0db," ","Długość nazwy pliku przekracza 50! Aby kontynuować importowanie, kliknij przycisk ""{0}""",
+4c4f1a34ecc6f9b6395471dd4365d0db," ","Nazwa książki jest dłuższa niż 50! Aby kontynuować importowanie, kliknij „{0}”. (Wersja profesjonalna nie ma ograniczenia długości nazwy książki. Możesz najpierw anulować ten import, a następnie ponownie zaimportować po zakupie wersji profesjonalnej, aby wyeliminować ograniczenie)",
 f5a709cb7491a113ef64d195aaf4886e," ","Pliki z nieznanym rozszerzeniem! (Porzuć importowanie pliku)",
 dfa1e60b8f3f2050f8635760971eba7a," ","Rozdział być silny? (Pomaga, aby automatycznie podzielić rozdziałów powieści)",
 7a6bd78091c46f00b3a6f3df3bdb397d," ","Plik zostanie otworzony później. Fly Reader, sprawdza aktualizację oprogramowania!",
